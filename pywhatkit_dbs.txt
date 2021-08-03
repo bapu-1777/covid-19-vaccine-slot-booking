@@ -1,0 +1,37 @@
+--------------------
+Date: 9:6:2021
+Time: 10:15
+Phone number: +91 7878374787
+Message: happy
+--------------------
+Date: 9:6:2021
+Time: 10:15
+Phone number: +91 99743 79911
+Message: happy
+--------------------
+Date: 9:6:2021
+Time: 10:15
+Phone number: +91 99743 79911
+Message: happy
+--------------------
+Date: 9:6:2021
+Time: 10:49
+Phone number: +91 7878374787
+Message: -----------------------------------------------------------
+
+Vaccine Slot in Gujarat's   (Paid-0)  COVISHIELD
+center_id : 702998
+name : Atal School Mandir Marg Site 1
+address: Atal Adarsh Bal Vidyalaya Mandir Marg- New Delhi - Not Applicable - New Delhi 
+pincode : 110001
+-----------------------------------------------------------
+
+date -> 09-06-2021
+available_capacity -> 44
+min_age_limit -> 45
+time -> ['09:00AM-11:00AM', '11:00AM-01:00PM', '01:00PM-03:00PM', '03:00PM-05:00PM']
+
+_________________________
+https://selfregistration.cowin.gov.in
+_________________________
+--------------------
